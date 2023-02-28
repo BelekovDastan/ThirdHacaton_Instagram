@@ -1,0 +1,48 @@
+body {
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav {
+  height: 100px;
+}
+
+.navbar_brand {
+  margin-left: 80px;
+}
+
+.nav_logo {
+  width: 100px;
+  height: 90px;
+}
+/* MAIN */
+
+.left {
+  height: 100vh;
+  border: black 1px solid;
+  margin: 15px;
+}
+article {
+  width: 60%;
+  height: 100vh;
+  border: black 1px solid;
+  padding: 20px;
+}
+
+.right {
+  height: 100vh;
+  width: 20%;
+  border: black 1px solid;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+/* MAIN */
+footer {
+  height: 10vh;
+  background-color: black;
+  color: silver;
+}
